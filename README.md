@@ -20,3 +20,11 @@ I was expecting to know most of it! There were so many little tidbits bits that 
 ### 7:55 AM
 
 I get to the office pretty early so I usually get a bunch of time to mess around. So this time, I got to start with freeCodeCamp's [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css). I went from [Change the Color of Text](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-color-of-text) to [Size Your Images](https://learn.freecodecamp.org/responsive-web-design/basic-css/size-your-images) in about 30 minutes or so. I spent a little more time with each challenge this time because really, my understanding of CSS is pretty shallow.
+
+### 6:13 PM
+
+Work ends at 5:00PM, and so I spent my time continuing the CSS challenges. This time around I went from [Add Borders Around Your Elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-borders-around-your-elements) to [Use Attribute Selectors to Style Elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements). A funny thing that occurred to me was a particular question.
+
+> Why is the unit `em` called that?
+
+This lead to some searching until finally, I found that it's etymology is from typography! I've known in the past that frontend is influenced by some aspects of traditional media, but this was mind blowing for me. I don't know. I guess it's just, I find it amusing that in our day and age, we find inspiration for the technologies of the future in the way we used to do things in the past.
