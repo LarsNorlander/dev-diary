@@ -28,3 +28,9 @@ Work ends at 5:00PM, and so I spent my time continuing the CSS challenges. This 
 > Why is the unit `em` called that?
 
 This lead to some searching until finally, I found that it's etymology is from typography! I've known in the past that frontend is influenced by some aspects of traditional media, but this was mind blowing for me. I don't know. I guess it's just, I find it amusing that in our day and age, we find inspiration for the technologies of the future in the way we used to do things in the past.
+
+### June 13, 2018
+
+###7:53 AM
+
+So this morning before work hours, I got to do [Understand Absolute versus Relative Units](https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units) to [Override All Other Styles by using Important](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-all-other-styles-by-using-important). I think this section so far has had the most surprises. There are quite a few things I encountered that I had no idea about. It was also interesting to finally learn how which styles take precedence.
