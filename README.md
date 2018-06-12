@@ -14,3 +14,9 @@ So, I just speeded through freeCodeCamps Basic HTML and HTML5 in the Responsive 
 > I knew a lot of the topics
 
 I was expecting to know most of it! There were so many little tidbits bits that I didn't know or didn't understand. Thing is, I was taking this to relearn frontend but it turns out, I'm actually learning it properly for the first time. I don't really find this disappointing, I'm actually excited by it! Here's to learning frontend, the right way.
+
+## June 12, 2018
+
+### 7:55 AM
+
+I get to the office pretty early so I usually get a bunch of time to mess around. So this time, I got to start with freeCodeCamp's [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css). I went from [Change the Color of Text](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-color-of-text) to [Size Your Images](https://learn.freecodecamp.org/responsive-web-design/basic-css/size-your-images) in about 30 minutes or so. I spent a little more time with each challenge this time because really, my understanding of CSS is pretty shallow.
