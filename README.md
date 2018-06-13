@@ -34,3 +34,7 @@ This lead to some searching until finally, I found that it's etymology is from t
 ###7:53 AM
 
 So this morning before work hours, I got to do [Understand Absolute versus Relative Units](https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units) to [Override All Other Styles by using Important](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-all-other-styles-by-using-important). I think this section so far has had the most surprises. There are quite a few things I encountered that I had no idea about. It was also interesting to finally learn how which styles take precedence.
+
+### 6:14
+
+So today I finished the [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css) and boy, did I learn so many new things. I really am just learning frontend for the first time. I was surprised to see that CSS Variables are already a thing, which is nice. I also finally got to drag- I mean take my juniors along with me.
