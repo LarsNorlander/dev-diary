@@ -38,3 +38,9 @@ So this morning before work hours, I got to do [Understand Absolute versus Relat
 ### 6:14
 
 So today I finished the [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css) and boy, did I learn so many new things. I really am just learning frontend for the first time. I was surprised to see that CSS Variables are already a thing, which is nice. I also finally got to drag- I mean take my juniors along with me.
+
+## June 14, 2018
+
+### 6:13
+
+Today I started [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) and got all the way to [Center an Element Horizontally Using the margin Property](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property). Here, I discovered that several of the HTML tags I used to use have been replaced (e.g. b -> strong) or are done in CSS instead. I've also finally got to understand several of the positioning properties that have always been so troubling for me to grasp and so, I look forward to continuing this.
