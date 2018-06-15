@@ -31,22 +31,22 @@ This lead to some searching until finally, I found that it's etymology is from t
 
 ### June 13, 2018
 
-###7:53 AM
+### 7:53 AM
 
 So this morning before work hours, I got to do [Understand Absolute versus Relative Units](https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units) to [Override All Other Styles by using Important](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-all-other-styles-by-using-important). I think this section so far has had the most surprises. There are quite a few things I encountered that I had no idea about. It was also interesting to finally learn how which styles take precedence.
 
-### 6:14
+### 6:14 PM
 
 So today I finished the [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css) and boy, did I learn so many new things. I really am just learning frontend for the first time. I was surprised to see that CSS Variables are already a thing, which is nice. I also finally got to drag- I mean take my juniors along with me.
 
 ## June 14, 2018
 
-### 6:13
+### 6:13 PM
 
 Today I started [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) and got all the way to [Center an Element Horizontally Using the margin Property](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property). Here, I discovered that several of the HTML tags I used to use have been replaced (e.g. b -> strong) or are done in CSS instead. I've also finally got to understand several of the positioning properties that have always been so troubling for me to grasp and so, I look forward to continuing this.
 
 ## June 15, 2018
 
-### 5:03
+### 5:03 PM
 
 While quickly waiting for my game to update (since it's 12 GB), I decided to quickly do five challenges while waiting. I'll be doing a lot more later.
