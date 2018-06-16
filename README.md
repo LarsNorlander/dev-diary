@@ -50,3 +50,9 @@ Today I started [Introduction to the Applied Visual Design Challenges](https://l
 ### 5:03 PM
 
 While quickly waiting for my game to update (since it's 12 GB), I decided to quickly do five challenges while waiting. I'll be doing a lot more later.
+
+## June 16, 2018
+
+### 5:43 PM
+
+So today, I finished [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design). I was amazed at how you could do graphics with CSS. But at the same time, I honestly found myself scratching my head with the bezier curves stuff. I wish I could understand it better later down the line since it seems interesting.
