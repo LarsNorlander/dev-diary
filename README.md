@@ -55,4 +55,8 @@ While quickly waiting for my game to update (since it's 12 GB), I decided to qui
 
 ### 5:43 PM
 
-So today, I finished [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design). I was amazed at how you could do graphics with CSS. But at the same time, I honestly found myself scratching my head with the bezier curves stuff. I wish I could understand it better later down the line since it seems interesting.
+So today, I finished the [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design). I was amazed at how you could do graphics with CSS. But at the same time, I honestly found myself scratching my head with the bezier curves stuff. I wish I could understand it better later down the line since it seems interesting.
+
+### 6:34 PM
+
+After my first sprint, I went on ahead to do the [Introduction to the Applied Accessibility Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility). I'm surprised at how much meaning there was to several tags like `main`, `article`, `section`, `div`, and several others. Before this, I just thought they all served the same purpose and that they were just some decorative tags. Turns out, it was for accessibility! This wasn't taught to me at school and I could start to see clearly now how self trained individuals could be come really good as long as they have the right learning materials.
