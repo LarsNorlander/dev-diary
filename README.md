@@ -60,3 +60,7 @@ So today, I finished the [Introduction to the Applied Visual Design Challenges](
 ### 6:34 PM
 
 After my first sprint, I went on ahead to do the [Introduction to the Applied Accessibility Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility). I'm surprised at how much meaning there was to several tags like `main`, `article`, `section`, `div`, and several others. Before this, I just thought they all served the same purpose and that they were just some decorative tags. Turns out, it was for accessibility! This wasn't taught to me at school and I could start to see clearly now how self trained individuals could be come really good as long as they have the right learning materials.
+
+## June 17, 2018
+
+Today's father's day and I went out with family (and no, I'm not the father in this holiday). I got home and it's already late, my brain isn't working anymore, and I'm just really tired in general. From this day on, I'll also log all the days I skip my #100DaysOfCode so that I'd be less inclined to skip for lousy reasons. I think today gets a pass though.
