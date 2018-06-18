@@ -64,3 +64,9 @@ After my first sprint, I went on ahead to do the [Introduction to the Applied Ac
 ## June 17, 2018
 
 Today's father's day and I went out with family (and no, I'm not the father in this holiday). I got home and it's already late, my brain isn't working anymore, and I'm just really tired in general. From this day on, I'll also log all the days I skip my #100DaysOfCode so that I'd be less inclined to skip for lousy reasons. I think today gets a pass though.
+
+## June 18, 2018
+
+### 6:49 PM
+
+So today I completed Applied Accessibility and Responsive Web Design Principles. Applied Accessibility showed me the importance of properly writing HTML to accommodate different kinds of web browsers including screen readers. There are a bunch of tags to consider and even how you style the page for say, the color blind. Those things never came across to me in the past and now, I'll keep those people in mind whenever I create a webpage.
