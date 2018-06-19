@@ -70,3 +70,9 @@ Today's father's day and I went out with family (and no, I'm not the father in t
 ### 6:49 PM
 
 So today I completed Applied Accessibility and Responsive Web Design Principles. Applied Accessibility showed me the importance of properly writing HTML to accommodate different kinds of web browsers including screen readers. There are a bunch of tags to consider and even how you style the page for say, the color blind. Those things never came across to me in the past and now, I'll keep those people in mind whenever I create a webpage.
+
+## June 19, 2018
+
+### 8:00 PM
+
+Today I started and completed the CSS Flexbox part of freeCodeCamp's  Responsive Web Design Certification. Flexbox has always confused me in the past (and honestly still kinda does) but this time, I got to try out how it's different properties work. Seeing how `flex-shrink` and `flex-grow` work feels kinda trippy.
