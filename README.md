@@ -82,3 +82,9 @@ Today I started and completed the CSS Flexbox part of freeCodeCamp's  Responsive
 ### 7:56 AM
 
 Got to start and finish a little over half of the [Introduction to the CSS Grid Challenges](https://learn.freecodecamp.org/responsive-web-design/css-grid) before work hours, I'll continue this later tonight.
+
+### 8:37 PM
+
+So I finished the CSS Grid challenges and I'm amazed at what it could do! I've heard that it was just a fairly recent thing too? Back when I tried frontend, Flexbox was kinda the solution I heard all the time when it came to layouts but honestly, I'm not sure what to do without Grid now. I think one of the most fun things about being a dev, is that there's always some new thing that empowers us to do more than we could before. There's always something new to learn and, that's actually the best part. It literally just keeps getting better and better.
+
+The code projects are up and I'm really looking forward to it now.
