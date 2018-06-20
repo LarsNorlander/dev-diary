@@ -76,3 +76,9 @@ So today I completed Applied Accessibility and Responsive Web Design Principles.
 ### 8:00 PM
 
 Today I started and completed the CSS Flexbox part of freeCodeCamp's  Responsive Web Design Certification. Flexbox has always confused me in the past (and honestly still kinda does) but this time, I got to try out how it's different properties work. Seeing how `flex-shrink` and `flex-grow` work feels kinda trippy.
+
+## June 20, 2018
+
+### 7:56 AM
+
+Got to start and finish a little over half of the [Introduction to the CSS Grid Challenges](https://learn.freecodecamp.org/responsive-web-design/css-grid) before work hours, I'll continue this later tonight.
