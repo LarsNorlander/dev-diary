@@ -94,3 +94,7 @@ The code projects are up and I'm really looking forward to it now.
 ### 7:55 AM
 
 I pretty much spent my time before work setting up the project challenge. I'm actually amazed at how the projects are checked and how they provide tests for you. I'm now even more excited to do the projects, but I'll have to do them later after work.
+
+### 6:29 PM
+
+So I already have all the tests passing!... Well, technically. It's barely still a tribute page though. What I've done was get all the tests to pass with the minimum amount of work necessary and from there, I tried out experimenting with what I could potentially do without breaking the tests. I also spent time looking at other tributes on CodePen to see how far they were able to go and well, what a tribute page looks like. In the end, I've decided to do a tribute for P!ATD's new album "Pray for the Wicked". It has a few singles out and so far I'm liking it. I have a few idea as to how it would look but we'll see what I get to do with it.
