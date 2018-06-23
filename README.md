@@ -104,3 +104,9 @@ So I already have all the tests passing!... Well, technically. It's barely still
 ### 7:58 AM
 
 So this morning I started out by filling up some of the HTML I plan to style and sprinkled a few classes in. The classes are there because I know I'll use them for styling later on. I've also just been able to add stub CSS declarations so that I could add styles and watch the page change as I need without having to go into the HTML to see what classes I made (I'm horribly forgetful).
+
+## June 23, 2018
+
+### 6:58 PM
+
+Today I spent my time playing around with Flexbox and Grids to position the items on my tribute page. It's starting to show what each may be best used for given a particular thing you'd like to do. Now that I'm trying to explain it, it's actually kinda hard. I just have a bit of a sense of when to use which and, well, it might be wrong. I'll see.
