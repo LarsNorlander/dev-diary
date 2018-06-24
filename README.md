@@ -110,3 +110,9 @@ So this morning I started out by filling up some of the HTML I plan to style and
 ### 6:58 PM
 
 Today I spent my time playing around with Flexbox and Grids to position the items on my tribute page. It's starting to show what each may be best used for given a particular thing you'd like to do. Now that I'm trying to explain it, it's actually kinda hard. I just have a bit of a sense of when to use which and, well, it might be wrong. I'll see.
+
+## June 24, 2018
+
+### 2:46 PM
+
+I've finished up aligning everything and now I'm experimenting with web fonts. It's kinda tough getting something that looks great together. Once I finish up with all the design work, I'll try making it more responsive. The current design only works for mobile and is abysmal for desktop.
