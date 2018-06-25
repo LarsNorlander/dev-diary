@@ -122,3 +122,9 @@ I've finished up aligning everything and now I'm experimenting with web fonts. I
 ### 6:26 PM
 
 I've figured that I was starting to take up too much time on my tribute because I was doing something that was waaaaay too complicated for my level. So I've decided to fork the project and replace it's content. This time around, it's a tribute to Elon Musk. I've read his biography a while back and I thought, "He's a pretty cool dude. I could probably do a tribute to him instead."
+
+## June 26, 2018
+
+### 7:55 AM
+
+Today I spent my time trying to format the tribute, it's getting closer to what I'd like. I think last I'd do would be to make it more responsive and fit for desktop.
