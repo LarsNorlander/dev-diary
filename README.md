@@ -116,3 +116,9 @@ Today I spent my time playing around with Flexbox and Grids to position the item
 ### 2:46 PM
 
 I've finished up aligning everything and now I'm experimenting with web fonts. It's kinda tough getting something that looks great together. Once I finish up with all the design work, I'll try making it more responsive. The current design only works for mobile and is abysmal for desktop.
+
+## June 25, 2018
+
+### 6:26 PM
+
+I've figured that I was starting to take up too much time on my tribute because I was doing something that was waaaaay too complicated for my level. So I've decided to fork the project and replace it's content. This time around, it's a tribute to Elon Musk. I've read his biography a while back and I thought, "He's a pretty cool dude. I could probably do a tribute to him instead."
