@@ -128,3 +128,7 @@ I've figured that I was starting to take up too much time on my tribute because 
 ### 7:55 AM
 
 Today I spent my time trying to format the tribute, it's getting closer to what I'd like. I think last I'd do would be to make it more responsive and fit for desktop.
+
+### 5:44 PM
+
+I got to get the responsiveness to work! I've used a grid to split the contents into two columns but, now there are a few new problems that I'll have to address. Frontend's fun.
