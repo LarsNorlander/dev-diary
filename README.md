@@ -138,3 +138,7 @@ I got to get the responsiveness to work! I've used a grid to split the contents 
 ### 7:58 AM
 
 I spent my time trying to figure out flex box so I could have all the items move towards the start. However, the image's margin grows to fill up the entire container. I haven't fixed that yet and just when I thought I only had to worry about desktop, I fired up the mobile simulator in Chrome and turns out, it was broken on mobile. 
+
+### 6:36 PM
+
+I finally decided to submit my tribute project since it already passes the tests and I've been able to style it in a way that I think looks nice. I realized that I've stayed here for too long now and I've decided that, well, I still got a ways to go and shooting for perfection now will just make me miserable. I've already begun the next challenge, a responsive form and I've already passed a couple of the tests.
