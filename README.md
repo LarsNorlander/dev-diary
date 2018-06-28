@@ -148,3 +148,7 @@ I finally decided to submit my tribute project since it already passes the tests
 ### 7:58 AM
 
 I've completed the bare basic requirements for the form and all tests are passing. What's left to do now is make a sensible form and style it up.
+
+### 8:54 PM
+
+I've tried making the form a lot more sensible. I guess I have enough to start styling.
