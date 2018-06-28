@@ -142,3 +142,9 @@ I spent my time trying to figure out flex box so I could have all the items move
 ### 6:36 PM
 
 I finally decided to submit my tribute project since it already passes the tests and I've been able to style it in a way that I think looks nice. I realized that I've stayed here for too long now and I've decided that, well, I still got a ways to go and shooting for perfection now will just make me miserable. I've already begun the next challenge, a responsive form and I've already passed a couple of the tests.
+
+## June 28, 2018
+
+### 7:58 AM
+
+I've completed the bare basic requirements for the form and all tests are passing. What's left to do now is make a sensible form and style it up.
