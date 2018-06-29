@@ -152,3 +152,9 @@ I've completed the bare basic requirements for the form and all tests are passin
 ### 8:54 PM
 
 I've tried making the form a lot more sensible. I guess I have enough to start styling.
+
+## June 29, 2018
+
+### 6:49 PM
+
+I've completed styling the form and made it responsive. I had the form basically have a card look to it and gave it a max-width of 800. Inside the form, I used grids to make two columns of inputs and made it one column when the screen got smaller.
