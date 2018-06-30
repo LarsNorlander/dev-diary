@@ -158,3 +158,9 @@ I've tried making the form a lot more sensible. I guess I have enough to start s
 ### 6:49 PM
 
 I've completed styling the form and made it responsive. I had the form basically have a card look to it and gave it a max-width of 800. Inside the form, I used grids to make two columns of inputs and made it one column when the screen got smaller.
+
+## June 30, 2018
+
+### 8:20 PM
+
+This week was particularly tiring (for some reason) and I spent most of the day sleeping. Despite that, I tried to do my best to get in some code into the product landing page although honestly, it was barely much. Hopefully tomorrow, I'll get to do much much more.
