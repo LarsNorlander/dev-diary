@@ -164,3 +164,9 @@ I've completed styling the form and made it responsive. I had the form basically
 ### 8:20 PM
 
 This week was particularly tiring (for some reason) and I spent most of the day sleeping. Despite that, I tried to do my best to get in some code into the product landing page although honestly, it was barely much. Hopefully tomorrow, I'll get to do much much more.
+
+## July 1, 2018
+
+### 12:18 PM
+
+So it turns out, I forgot that CodePen doesn't do autosave. Hence, all my work yesterday was all for naught. Well, it's not like I go to do much anyway. So for the product page, I've decided to do a simple version for the MacBook Pro. It's my main machine and I just love it for doing work so, that's the product page I'm doing.
