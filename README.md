@@ -170,3 +170,9 @@ This week was particularly tiring (for some reason) and I spent most of the day 
 ### 12:18 PM
 
 So it turns out, I forgot that CodePen doesn't do autosave. Hence, all my work yesterday was all for naught. Well, it's not like I go to do much anyway. So for the product page, I've decided to do a simple version for the MacBook Pro. It's my main machine and I just love it for doing work so, that's the product page I'm doing.
+
+## July 2, 2018
+
+### 8:38 PM
+
+I completed the product page today. Did quite some work on that menu bar to get it to keep the company logo at the left and the nav items to the right. Typically I'd use a framework but I guess now I have a better understanding of how that works. Two projects left and I'll be saying hello to JS. I'm starting to miss programming.
