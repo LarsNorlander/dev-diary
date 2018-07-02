@@ -176,3 +176,9 @@ So it turns out, I forgot that CodePen doesn't do autosave. Hence, all my work y
 ### 8:38 PM
 
 I completed the product page today. Did quite some work on that menu bar to get it to keep the company logo at the left and the nav items to the right. Typically I'd use a framework but I guess now I have a better understanding of how that works. Two projects left and I'll be saying hello to JS. I'm starting to miss programming.
+
+## July 3, 2018
+
+### 7:47 AM
+
+Started work on the technical documentation page and got a few test cases passing. I'm getting information from MDN thought I might have taken a look at the wrong page. Turns out I need far more code blocks that what's listed at the page I was looking at.
