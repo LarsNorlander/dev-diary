@@ -186,3 +186,9 @@ Started work on the technical documentation page and got a few test cases passin
 ### 5:54 PM
 
 I finished all of the content related tests for the technical documentation. What's left now is to keep the nav bar at the left side of the screen and then add a media query for mobile.
+
+## July 4, 2018
+
+### 7:56 AM
+
+I finished all the test cases now for the technical documentation. What's left now is to properly style the doc and then submit it.
