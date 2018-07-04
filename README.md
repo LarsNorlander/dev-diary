@@ -192,3 +192,13 @@ I finished all of the content related tests for the technical documentation. Wha
 ### 7:56 AM
 
 I finished all the test cases now for the technical documentation. What's left now is to properly style the doc and then submit it.
+
+### 6:12 PM
+
+Styles have been applied and it's working pretty much as intended. I've submitted it and now, only one project remains.
+
+## July 5, 2018
+
+### 7:56 AM
+
+For the most part I just got to create the base project and look at how the sample works. I'll do more work later.
