@@ -202,3 +202,7 @@ Styles have been applied and it's working pretty much as intended. I've submitte
 ### 7:56 AM
 
 For the most part I just got to create the base project and look at how the sample works. I'll do more work later.
+
+### 6:59 PM
+
+So at this point, I've completed all the test cases but haven't really fully done the designs. So at this point, I'm gonna style it up. I haven't done much projects though, but I think I have an idea.
