@@ -206,3 +206,9 @@ For the most part I just got to create the base project and look at how the samp
 ### 6:59 PM
 
 So at this point, I've completed all the test cases but haven't really fully done the designs. So at this point, I'm gonna style it up. I haven't done much projects though, but I think I have an idea.
+
+## July 6, 2018
+
+### 6:40 PM
+
+I ended up spending quite some time styling just the welcome section. I tried different combinations of colors with text, background, gradients, images, and all that. In the end, I went for black and white anyway. Welp. I really don't have much to show in my GitHub and so to have a few items on the page (and trying to be funny), I made it a portfolio of "Hello, world!" applications in different programming languages.
