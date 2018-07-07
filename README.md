@@ -212,3 +212,9 @@ So at this point, I've completed all the test cases but haven't really fully don
 ### 6:40 PM
 
 I ended up spending quite some time styling just the welcome section. I tried different combinations of colors with text, background, gradients, images, and all that. In the end, I went for black and white anyway. Welp. I really don't have much to show in my GitHub and so to have a few items on the page (and trying to be funny), I made it a portfolio of "Hello, world!" applications in different programming languages.
+
+## July 7, 2018
+
+### 7:22 PM
+
+So I've completed the personal portfolio project, thus concluding the Responsive Web Design Certification. Frontend has been quite fun and presents it's own set of intersting problems. However, at this point, I kinda miss backend development. So tomorrow, I'm probably gonna headback to Kotlin. Thanks, freeCodeCamp, for being awesome and providing learning materials for everyone!
