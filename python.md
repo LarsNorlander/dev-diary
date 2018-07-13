@@ -11,7 +11,18 @@ with the third edition of The Quick Python Book which released last May. I'm loo
 
 ## July 12, 2018
 
-## 7:56 AM
+### 7:56 AM
 
 I've finished reading up on the first chapter of The Quick Python Book and now, I'm a lot more convinced and I look
 forward to reading the rest of it. But for now, time for work.
+
+## July 13, 2018
+
+### 8:56 PM
+
+Today I got to learn a whole bunch about Python's list data structure and the things you could do with it. I think today's biggest moment of amusement, is how you could take say, the last three elements of a list and put it at the beginning in one line.
+
+```py
+x = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+x[:-3],x[-3:] = x[-3:],x[:-3]
+```
