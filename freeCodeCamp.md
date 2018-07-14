@@ -29,7 +29,7 @@ Work ends at 5:00PM, and so I spent my time continuing the CSS challenges. This 
 
 This lead to some searching until finally, I found that it's etymology is from typography! I've known in the past that frontend is influenced by some aspects of traditional media, but this was mind blowing for me. I don't know. I guess it's just, I find it amusing that in our day and age, we find inspiration for the technologies of the future in the way we used to do things in the past.
 
-### June 13, 2018
+## June 13, 2018
 
 ### 7:53 AM
 
