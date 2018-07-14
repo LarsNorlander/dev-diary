@@ -36,3 +36,7 @@ Finished reading about tuples and sets! So tuples are basically immutable lists 
 ### 11:29 AM
 
 This time, I got to read the chapters on strings and dictionaries. The more I read about Python, the more I get excited to try it out and code a bunch of stuff. I've already tried a few problems on hacker rank and it feels so nice being able to use the language to solve problems. It's nice that I could solve them pretty quickly too!
+
+### 4:20 PM
+
+Control flow, functions, generators, and decorators. There's a bunch of stuff in Python for doing a bunch of things huh? It's surprising how many shortcuts the language has for doing different things and now I'm seeing how I may want to use the language. I intend on using it for programming challenges but I'll just read the rest of the book and see what else I could learn. I might use Python for other things too.
