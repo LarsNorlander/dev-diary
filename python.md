@@ -26,3 +26,9 @@ Today I got to learn a whole bunch about Python's list data structure and the th
 x = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 x[:-3],x[-3:] = x[-3:],x[:-3]
 ```
+
+## July 14, 2018
+
+### 8:34 AM
+
+Finished reading about tuples and sets! So tuples are basically immutable lists and sets are basically the mathematical set. One important difference I guess between a set and a list are their lookup times. If I remember correctly, a list's lookup time is linear while a set's is constant. This makes a difference if all you care about is membership in a collection. I also found it amusing that the bitwise operators like `|`, `&`, and `^` work for doing set operations; it feels like it's intuitive too.
