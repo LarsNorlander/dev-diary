@@ -32,3 +32,7 @@ x[:-3],x[-3:] = x[-3:],x[:-3]
 ### 8:34 AM
 
 Finished reading about tuples and sets! So tuples are basically immutable lists and sets are basically the mathematical set. One important difference I guess between a set and a list are their lookup times. If I remember correctly, a list's lookup time is linear while a set's is constant. This makes a difference if all you care about is membership in a collection. I also found it amusing that the bitwise operators like `|`, `&`, and `^` work for doing set operations; it feels like it's intuitive too.
+
+### 11:29 AM
+
+This time, I got to read the chapters on strings and dictionaries. The more I read about Python, the more I get excited to try it out and code a bunch of stuff. I've already tried a few problems on hacker rank and it feels so nice being able to use the language to solve problems. It's nice that I could solve them pretty quickly too!
