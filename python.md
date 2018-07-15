@@ -40,3 +40,9 @@ This time, I got to read the chapters on strings and dictionaries. The more I re
 ### 4:20 PM
 
 Control flow, functions, generators, and decorators. There's a bunch of stuff in Python for doing a bunch of things huh? It's surprising how many shortcuts the language has for doing different things and now I'm seeing how I may want to use the language. I intend on using it for programming challenges but I'll just read the rest of the book and see what else I could learn. I might use Python for other things too.
+
+## July 15, 2018
+
+### 8:41 AM
+
+So at this point, I've read the chapters "Modules and scoping rules" and "Python programs". This is gonna come in handy I suppose when I want to write some scripts to do stuff. What that stuff is gonna be I have no idea at the moment. But today I also decided to try using PyCharm Edu and it was a little too fun. After importing my custom IntelliJ IDEA settings, Python just got a little more fun again.
