@@ -4,17 +4,13 @@
 
 ### 7:53 PM
 
-I've decided today that after forever, I'd pick up and learn Python. Actually, I want to learn for a couple of things.
-I want to use the language as my "Scripting Knife". Basically for quickly whipping up code for doing just about 
-anything. That, and I'd like to use it as my language of choice for stuff like CodeSignal or LeetCode. I'm starting out
-with the third edition of The Quick Python Book which released last May. I'm looking forward to this.
+I've decided today that after forever, I'd pick up and learn Python. Actually, I want to learn for a couple of things. I want to use the language as my "Scripting Knife". Basically for quickly whipping up code for doing just about anything. That, and I'd like to use it as my language of choice for stuff like CodeSignal or LeetCode. I'm starting out with the third edition of The Quick Python Book which released last May. I'm looking forward to this.
 
 ## July 12, 2018
 
 ### 7:56 AM
 
-I've finished reading up on the first chapter of The Quick Python Book and now, I'm a lot more convinced and I look
-forward to reading the rest of it. But for now, time for work.
+I've finished reading up on the first chapter of The Quick Python Book and now, I'm a lot more convinced and I look forward to reading the rest of it. But for now, time for work.
 
 ## July 13, 2018
 
@@ -46,3 +42,7 @@ Control flow, functions, generators, and decorators. There's a bunch of stuff in
 ### 8:41 AM
 
 So at this point, I've read the chapters "Modules and scoping rules" and "Python programs". This is gonna come in handy I suppose when I want to write some scripts to do stuff. What that stuff is gonna be I have no idea at the moment. But today I also decided to try using PyCharm Edu and it was a little too fun. After importing my custom IntelliJ IDEA settings, Python just got a little more fun again.
+
+### 6:49 PM
+
+I decided I know enough Python to go ahead and solve some problems. So I first go to CodeSignal and get my hopes crushed as I struggle to solve some problems. Luckily, it seems HackerRank has a few problems that are more fitting for my level. I pretty much ended up doing 29 practice challenges under Problem Solving and Python. It was honestly really hard to tear myself away from solving these problems and I constantly found myself saying, "Just one more and I'll log this." I guess that's not such a bad thing.
