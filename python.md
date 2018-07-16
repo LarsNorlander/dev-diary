@@ -46,3 +46,9 @@ So at this point, I've read the chapters "Modules and scoping rules" and "Python
 ### 6:49 PM
 
 I decided I know enough Python to go ahead and solve some problems. So I first go to CodeSignal and get my hopes crushed as I struggle to solve some problems. Luckily, it seems HackerRank has a few problems that are more fitting for my level. I pretty much ended up doing 29 practice challenges under Problem Solving and Python. It was honestly really hard to tear myself away from solving these problems and I constantly found myself saying, "Just one more and I'll log this." I guess that's not such a bad thing.
+
+## July 16, 2018
+
+### 6:16 PM
+
+Continued studying up a bit this time on using the file system in Python. I also tried scanning a few books to see where my level is at and where I could move next. It seems I still need to learn a bunch. But, there is one book that seems interesting. Automate the Boring Stuff with Python might be an interesting next step and provide a few practice projects.
