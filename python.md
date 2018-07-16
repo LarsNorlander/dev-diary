@@ -52,3 +52,9 @@ I decided I know enough Python to go ahead and solve some problems. So I first g
 ### 6:16 PM
 
 Continued studying up a bit this time on using the file system in Python. I also tried scanning a few books to see where my level is at and where I could move next. It seems I still need to learn a bunch. But, there is one book that seems interesting. Automate the Boring Stuff with Python might be an interesting next step and provide a few practice projects.
+
+## July 17, 2018
+
+### 7:55 AM
+
+Even more on Python and file systems. This time around, how you could manipulate paths like joining them, splitting, getting the name or base and what not.
