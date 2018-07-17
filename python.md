@@ -58,3 +58,7 @@ Continued studying up a bit this time on using the file system in Python. I also
 ### 7:55 AM
 
 Even more on Python and file systems. This time around, how you could manipulate paths like joining them, splitting, getting the name or base and what not.
+
+### 5:59 PM
+
+Finally got to finish the chapter on "Using the filesystem" and have a good idea of what Python could do with regards to manipulating paths, editing filenames, removing them, the standard filesystem stuff. Tomorrow I'll read up about "Reading and writing files". Everyday, I get a little more comfortable with Python and a little more productive.
