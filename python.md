@@ -62,3 +62,9 @@ Even more on Python and file systems. This time around, how you could manipulate
 ### 5:59 PM
 
 Finally got to finish the chapter on "Using the filesystem" and have a good idea of what Python could do with regards to manipulating paths, editing filenames, removing them, the standard filesystem stuff. Tomorrow I'll read up about "Reading and writing files". Everyday, I get a little more comfortable with Python and a little more productive.
+
+## July 18, 2018
+
+### 7:57 AM
+
+Read about reading and writing to files and the different modes and functions available to me. I'm a little surprised though at how you could easily override standard in and out to write or read to a file instead. 
