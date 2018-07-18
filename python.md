@@ -72,3 +72,9 @@ Read about reading and writing to files and the different modes and functions av
 ### 7:54 PM
 
 Finished studying up "Reading and writing files" from the book. The features here that really surprised me was the ability to pickle objects and the shelf module. I feel like these would be some rather ridiculously useful things for a bunch of simple things. Pickling though has it's drawbacks and shelves don't exactly work well with concurrency. But aside from that, their pretty awesome!
+
+## July 19, 2018
+
+### 7:53 AM
+
+Read the entire chapter on "Exceptions" and now I've got a good idea of how it works in Python. I've encountered exceptions before in other languages like Java but it seems the way it's done in Python is a little different. Context managers are also a nice feature to make stuff concise. 
