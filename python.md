@@ -68,3 +68,7 @@ Finally got to finish the chapter on "Using the filesystem" and have a good idea
 ### 7:57 AM
 
 Read about reading and writing to files and the different modes and functions available to me. I'm a little surprised though at how you could easily override standard in and out to write or read to a file instead. 
+
+### 7:54 PM
+
+Finished studying up "Reading and writing files" from the book. The features here that really surprised me was the ability to pickle objects and the shelf module. I feel like these would be some rather ridiculously useful things for a bunch of simple things. Pickling though has it's drawbacks and shelves don't exactly work well with concurrency. But aside from that, their pretty awesome!
