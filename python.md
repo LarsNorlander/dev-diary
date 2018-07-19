@@ -78,3 +78,7 @@ Finished studying up "Reading and writing files" from the book. The features her
 ### 7:53 AM
 
 Read the entire chapter on "Exceptions" and now I've got a good idea of how it works in Python. I've encountered exceptions before in other languages like Java but it seems the way it's done in Python is a little different. Context managers are also a nice feature to make stuff concise. 
+
+### 6:12 PM
+
+Got to read about the starting of OOP in Python, how to declare classes, instance fields and the `__init__` method. I'll continue studying this tomorrow.
