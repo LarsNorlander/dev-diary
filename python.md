@@ -89,3 +89,6 @@ Got to read about the starting of OOP in Python, how to declare classes, instanc
 
 Read about class variables, static and class methods and some basic inheritance. Something I never thought of though while learning OOP in other languages was that the instance is always passed into instance methods. It's just that in Python it's explicit and in languages like Java, it's implicit and uses the keyword `this`.
 
+## July 21, 2018
+
+Properties, private class members, and multiple inheritance.  Truthfully, I find the double underscores to mark things as private a little strange. Sure, you'll know right away what's private but... well, I guess I'm just not used to it. The way multiple inheritance works seems to be simple enough, though personally, coming from a Java background, I prefer to build up my objects with composition. In terms of experience, I don't remember the last time I did inheritance. Sure, Interfaces, but I could probably count the number of times I've inherited from a concrete class.
