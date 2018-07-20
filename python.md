@@ -82,3 +82,10 @@ Read the entire chapter on "Exceptions" and now I've got a good idea of how it w
 ### 6:12 PM
 
 Got to read about the starting of OOP in Python, how to declare classes, instance fields and the `__init__` method. I'll continue studying this tomorrow.
+
+## July 20, 2018
+
+### 7:55 AM
+
+Read about class variables, static and class methods and some basic inheritance. Something I never thought of though while learning OOP in other languages was that the instance is always passed into instance methods. It's just that in Python it's explicit and in languages like Java, it's implicit and uses the keyword `this`.
+
