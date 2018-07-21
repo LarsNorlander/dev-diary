@@ -91,4 +91,6 @@ Read about class variables, static and class methods and some basic inheritance.
 
 ## July 21, 2018
 
+### 7:23 AM
+
 Properties, private class members, and multiple inheritance.  Truthfully, I find the double underscores to mark things as private a little strange. Sure, you'll know right away what's private but... well, I guess I'm just not used to it. The way multiple inheritance works seems to be simple enough, though personally, coming from a Java background, I prefer to build up my objects with composition. In terms of experience, I don't remember the last time I did inheritance. Sure, Interfaces, but I could probably count the number of times I've inherited from a concrete class.
