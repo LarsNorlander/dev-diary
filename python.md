@@ -98,3 +98,9 @@ Properties, private class members, and multiple inheritance.  Truthfully, I find
 ### 2:03 PM
 
 Finished the chapter on Regular Expressions. I've used regular expressions a few times in Java and knowing how to use it and how not to trip may be useful in the future. I'm yet to see how I'll apply it.
+
+## July 22, 2018
+
+### 3:04 PM
+
+Finished reading the chapter "Data types as objects" and got to learn about special methods and how Python handles types. 🦆 Honestly, Duck Typing feels really strange if you come from something like Java where everything is defined. The idea of creating your own list without implementing a list interface feels weird. I mean, I guess you could prevent making mistakes by doing TDD and doing it right, but I think I prefer Java's style for now. We'll see. 😂
