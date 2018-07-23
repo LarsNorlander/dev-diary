@@ -104,3 +104,9 @@ Finished the chapter on Regular Expressions. I've used regular expressions a few
 ### 3:04 PM
 
 Finished reading the chapter "Data types as objects" and got to learn about special methods and how Python handles types. 🦆 Honestly, Duck Typing feels really strange if you come from something like Java where everything is defined. The idea of creating your own list without implementing a list interface feels weird. I mean, I guess you could prevent making mistakes by doing TDD and doing it right, but I think I prefer Java's style for now. We'll see. 😂
+
+## July 23, 2018
+
+### 7:56 AM
+
+Got to finish the chapter "Packages" in The Quick Python Book and got to understand how packages work and what constitutes to a Python package. Also, apparently in Python, a flat structure is better than a nested one.
