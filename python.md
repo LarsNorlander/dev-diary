@@ -110,3 +110,7 @@ Finished reading the chapter "Data types as objects" and got to learn about spec
 ### 7:56 AM
 
 Got to finish the chapter "Packages" in The Quick Python Book and got to understand how packages work and what constitutes to a Python package. Also, apparently in Python, a flat structure is better than a nested one.
+
+### 6:40 PM
+
+Finished the chapter on "Using Python libraries" and finally got to understand how Python handles external libraries and how to install them. Something useful I also learned was the virtual environment. I've been seeing it in PyCharm but never new what it was supposed to be. Now I've figured it out.
