@@ -15,3 +15,9 @@ But it was the similarities that intrigued me. What triggered this specifically,
 And what do you know, I suddenly had a new found appreciation for Groovy. I used to view it as basically Java, but with scripting thrown into it. Looking at it as a scripting language first with elements of Java completed changed how I saw the language. 
 
 It turns out, learning new languages does widen your view. It gives you a new way to look at things and gives you a much deeper understanding of the underlying concepts. I'd say today was a good day for learning, and now, I'm even more curious to see what other languages the programming world has to offer.
+
+## July 25, 2018
+
+### 7:57 AM
+
+Got to do two out of the three activities for Day 2 in Ruby. Got a few errors here and there but that allowed me to understand how the language worked a little better.
