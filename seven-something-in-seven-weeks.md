@@ -21,3 +21,13 @@ It turns out, learning new languages does widen your view. It gives you a new wa
 ### 7:57 AM
 
 Got to do two out of the three activities for Day 2 in Ruby. Got a few errors here and there but that allowed me to understand how the language worked a little better.
+
+### 6:49 PM
+
+I've completed  all the Day 2 activities and have gotten a little more than halfway through Day 3 for Ruby. Reading got slowed down coz I ended up enjoying messing around with the language and trying out different stuff with it. I just find a few things weird, like `some_string.titleize`.
+
+## July 26, 2018
+
+### 8:27 PM
+
+I tried to read up a bit but unfortunately, I was a little too sick to even concentrate and had too heavy of a head. Maybe tomorrow would be a bit better?
