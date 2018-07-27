@@ -31,3 +31,9 @@ I've completed  all the Day 2 activities and have gotten a little more than half
 ### 8:27 PM
 
 I tried to read up a bit but unfortunately, I was a little too sick to even concentrate and had too heavy of a head. Maybe tomorrow would be a bit better?
+
+## July 27, 2018
+
+### 7:17 PM
+
+I tried a small stint this morning but that wasn't so good since my head just pounded. But by the night, I was finally able to read up the rest of Ruby and completed the Day 3 activities. Ruby does look like a nice language and it does seem fun. Between Python and Ruby there is no clear winner for me just yet, but I do appreciate what the language is doing. Learning more than one scripting language has also helped give me a greater appreciation of them.
