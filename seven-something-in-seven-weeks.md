@@ -37,3 +37,9 @@ I tried to read up a bit but unfortunately, I was a little too sick to even conc
 ### 7:17 PM
 
 I tried a small stint this morning but that wasn't so good since my head just pounded. But by the night, I was finally able to read up the rest of Ruby and completed the Day 3 activities. Ruby does look like a nice language and it does seem fun. Between Python and Ruby there is no clear winner for me just yet, but I do appreciate what the language is doing. Learning more than one scripting language has also helped give me a greater appreciation of them.
+
+## July 28, 2018
+
+### 3:10 PM
+
+Got to do Day 1 for Io and it's activities. It feels weird looking at the language but there's a weird charm to it. The biggest takeaway though is seeing how prototypes in Io work. I've always been puzzled about prototypes in JavaScript and this is shedding some light for me.
