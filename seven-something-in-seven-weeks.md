@@ -43,3 +43,7 @@ I tried a small stint this morning but that wasn't so good since my head just po
 ### 3:10 PM
 
 Got to do Day 1 for Io and it's activities. It feels weird looking at the language but there's a weird charm to it. The biggest takeaway though is seeing how prototypes in Io work. I've always been puzzled about prototypes in JavaScript and this is shedding some light for me.
+
+### 7:36 PM
+
+Got to read a huge chunk of Day 2 for Io. Got to run a few scripts from from files and slightly got my head a little around the concept of messaging here.
