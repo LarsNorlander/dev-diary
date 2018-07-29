@@ -53,3 +53,7 @@ Got to read a huge chunk of Day 2 for Io. Got to run a few scripts from from fil
 ### 11:02 AM
 
 Got to finish the chapter on Io. The language I think is an interesting one. The language is in a direct contrast with Ruby in terms of how much syntactic sugar there is, in Io there's absolutely none. But I was intrigued by the ability to basically implement your own syntax. That was kinda astonishing to see. Next up, Prolog.
+
+### 5:26 PM
+
+Got to read Day 1 of Prolog and got to do it's activities. This language is so amusing. I'm bewildered by how it works. You state some facts, a few rules, and it gives you the answer. It's just, how??? How does it do that? And the interview about from the dolphin researches was mind blowing to read.
