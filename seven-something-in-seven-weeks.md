@@ -57,3 +57,9 @@ Got to finish the chapter on Io. The language I think is an interesting one. The
 ### 5:26 PM
 
 Got to read Day 1 of Prolog and got to do it's activities. This language is so amusing. I'm bewildered by how it works. You state some facts, a few rules, and it gives you the answer. It's just, how??? How does it do that? And the interview about from the dolphin researches was mind blowing to read.
+
+## July 31, 2018
+
+### 6:42 PM
+
+Got to finish Day 2 of Prolog and the language is just twisting my brain in all sorts of ways. I have a shallow understanding of what's going on and it still amazes me how the language does what it does.
