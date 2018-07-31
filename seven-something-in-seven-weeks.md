@@ -69,3 +69,9 @@ Got to finish Day 2 of Prolog and the language is just twisting my brain in all 
 ### 7:22 PM
 
 Got to finish the chapter on Prolog. I was amazed to see the language solve problems like sudoku. I'm not going to pretend like I fully understood the language but, I got a good grasp at what it's good at and I'm genuinely interested in revisiting this language in the future.
+
+## August 1, 2018
+
+### 7:49 AM
+
+Got to read the introduction to Scala and now I'm quite interested. I've heard about the language before but never got to learning it. I studied Kotlin instead though. But now that I'm studying the book Seven Languages in Seven weeks, here's my chance to get to know the language and how it mixes OOP with FP.
