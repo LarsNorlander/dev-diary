@@ -75,3 +75,7 @@ Got to finish the chapter on Prolog. I was amazed to see the language solve prob
 ### 7:49 AM
 
 Got to read the introduction to Scala and now I'm quite interested. I've heard about the language before but never got to learning it. I studied Kotlin instead though. But now that I'm studying the book Seven Languages in Seven weeks, here's my chance to get to know the language and how it mixes OOP with FP.
+
+### 6:24 PM
+
+Got to finish Day 1 of Scala. Day 1 pretty much introduces it's object oriented features and it's relation to Java. I also go to learn how companion objects work and traits. I've seen those concepts before in other languages but only actually got to try it out here.
