@@ -79,3 +79,9 @@ Got to read the introduction to Scala and now I'm quite interested. I've heard a
 ### 6:24 PM
 
 Got to finish Day 1 of Scala. Day 1 pretty much introduces it's object oriented features and it's relation to Java. I also go to learn how companion objects work and traits. I've seen those concepts before in other languages but only actually got to try it out here.
+
+## August 2, 2018
+
+### 6:30 PM
+
+Got to finish Day 2 of Scala. I've already encountered some of the functional concepts in Java but I like how easy and clean it is to use function currying in Scala.
