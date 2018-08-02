@@ -85,3 +85,9 @@ Got to finish Day 1 of Scala. Day 1 pretty much introduces it's object oriented 
 ### 6:30 PM
 
 Got to finish Day 2 of Scala. I've already encountered some of the functional concepts in Java but I like how easy and clean it is to use function currying in Scala.
+
+## August 3, 2018
+
+### 7:52 AM
+
+Got to go through halfway of Day 3 for Scala. I'm surprised at the fact that XML syntax is supported in the language itself. The pattern matching feature is also cool. I've actually used it in Kotlin as the `when` expression. I'm actually seeing a lot of where Kotlin might have gotten it's inspiration from. 
