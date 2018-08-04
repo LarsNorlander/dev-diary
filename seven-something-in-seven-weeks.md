@@ -91,3 +91,9 @@ Got to finish Day 2 of Scala. I've already encountered some of the functional co
 ### 7:52 AM
 
 Got to go through halfway of Day 3 for Scala. I'm surprised at the fact that XML syntax is supported in the language itself. The pattern matching feature is also cool. I've actually used it in Kotlin as the `when` expression. I'm actually seeing a lot of where Kotlin might have gotten it's inspiration from. 
+
+## August 4, 2018
+
+### 6:04 PM
+
+Got to finish Scala today and read a bit on Erlang. I had some trouble with Scala for a bit because of some deprecated stuff in the book but I got over it. I find it cool to see Erlang now that I've seen Prolog and how Erlang is based on it.
