@@ -97,3 +97,7 @@ Got to go through halfway of Day 3 for Scala. I'm surprised at the fact that XML
 ### 6:04 PM
 
 Got to finish Scala today and read a bit on Erlang. I had some trouble with Scala for a bit because of some deprecated stuff in the book but I got over it. I find it cool to see Erlang now that I've seen Prolog and how Erlang is based on it.
+
+## August 5, 2018
+
+Didn't get to work on anything today because I spent the entire day out with family. I'll resume tomorrow.
