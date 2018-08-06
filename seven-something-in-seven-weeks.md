@@ -107,3 +107,7 @@ Didn't get to work on anything today because I spent the entire day out with fam
 ### 7:57 AM
 
 Worked halfway through Erlang's 2nd day. It's interesting to see all the list processing methods here as the highlight of a functional language. I've used these in Java through the Streams API and I feel as if I'm seeing where the ideas for Java's functional features come from.
+
+### 6:32 PM
+
+Worked a little more through day 2 or Erlang. I didn't get to cover the entire section just yet. I'll most likely finish this up tomorrow.
