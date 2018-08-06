@@ -101,3 +101,9 @@ Got to finish Scala today and read a bit on Erlang. I had some trouble with Scal
 ## August 5, 2018
 
 Didn't get to work on anything today because I spent the entire day out with family. I'll resume tomorrow.
+
+## August 6, 2018
+
+### 7:57 AM
+
+Worked halfway through Erlang's 2nd day. It's interesting to see all the list processing methods here as the highlight of a functional language. I've used these in Java through the Streams API and I feel as if I'm seeing where the ideas for Java's functional features come from.
