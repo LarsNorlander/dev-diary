@@ -111,3 +111,9 @@ Worked halfway through Erlang's 2nd day. It's interesting to see all the list pr
 ### 6:32 PM
 
 Worked a little more through day 2 or Erlang. I didn't get to cover the entire section just yet. I'll most likely finish this up tomorrow.
+
+## August 7, 2018
+
+### 7:57 AM
+
+Got to finish up day 2 for Erlang and have gone through some of the material for day 3. I found myself rather amused at the idea of spawning processes for the concurrency.
