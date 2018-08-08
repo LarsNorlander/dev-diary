@@ -117,3 +117,9 @@ Worked a little more through day 2 or Erlang. I didn't get to cover the entire s
 ### 7:57 AM
 
 Got to finish up day 2 for Erlang and have gone through some of the material for day 3. I found myself rather amused at the idea of spawning processes for the concurrency.
+
+## August 8, 2018
+
+### 7:54 AM
+
+Got to finish up the chapter on Erlang and I've got to say, I was very impressed with how well you could do concurrency. It was also impressed with how it could easily monitor processes and restart them whenever needed. Now I get the "Let it crash" philosophy of the language and it's amazing.
