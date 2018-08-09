@@ -123,3 +123,9 @@ Got to finish up day 2 for Erlang and have gone through some of the material for
 ### 7:54 AM
 
 Got to finish up the chapter on Erlang and I've got to say, I was very impressed with how well you could do concurrency. It was also impressed with how it could easily monitor processes and restart them whenever needed. Now I get the "Let it crash" philosophy of the language and it's amazing.
+
+## August 9, 2018
+
+### 7:55 AM
+
+Started reading up the chapter on Clojure and finally, I could write programs in Lisp-style language. 😂 It's quite fascinating really, writing code in a way that is just sooo different from what you're used to.
