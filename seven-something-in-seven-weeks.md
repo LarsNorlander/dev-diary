@@ -129,3 +129,9 @@ Got to finish up the chapter on Erlang and I've got to say, I was very impressed
 ### 7:55 AM
 
 Started reading up the chapter on Clojure and finally, I could write programs in Lisp-style language. 😂 It's quite fascinating really, writing code in a way that is just sooo different from what you're used to.
+
+## August 10, 2018
+
+### 9:50 AM
+
+Got to finish up the first day of Clojure and that felt like a rather long one. It's probably because the language is so different from what I'm used to and I'm learning so much stuff. It's interesting to finally learn a Lisp dialect, one that works at the JVM too.
