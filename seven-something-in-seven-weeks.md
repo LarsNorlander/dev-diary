@@ -135,3 +135,9 @@ Started reading up the chapter on Clojure and finally, I could write programs in
 ### 9:50 AM
 
 Got to finish up the first day of Clojure and that felt like a rather long one. It's probably because the language is so different from what I'm used to and I'm learning so much stuff. It's interesting to finally learn a Lisp dialect, one that works at the JVM too.
+
+## August 11, 2018
+
+### 1:42 PM
+
+Finished up half of day 2 for Clojure. List processing is definitely it's forte! The more I use the language, the less foreign it starts to look.
