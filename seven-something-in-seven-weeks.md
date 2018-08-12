@@ -141,3 +141,9 @@ Got to finish up the first day of Clojure and that felt like a rather long one. 
 ### 1:42 PM
 
 Finished up half of day 2 for Clojure. List processing is definitely it's forte! The more I use the language, the less foreign it starts to look.
+
+## August 12, 2018
+
+### 11:37 AM
+
+Got to finish day 2 of Clojure. I was busy yesterday so I wasn't able to complete it. I'll definitely try and see if I could catch up on day 3.
