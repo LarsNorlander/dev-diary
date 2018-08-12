@@ -147,3 +147,7 @@ Finished up half of day 2 for Clojure. List processing is definitely it's forte!
 ### 11:37 AM
 
 Got to finish day 2 of Clojure. I was busy yesterday so I wasn't able to complete it. I'll definitely try and see if I could catch up on day 3.
+
+### 1:38 PM
+
+Got to finish up Clojure. While doing some reading on the web, I found myself smiling at the fact that I could understand some Lisp now. It's not too foreign to me anymore and now I want to learn more about it.
