@@ -151,3 +151,9 @@ Got to finish day 2 of Clojure. I was busy yesterday so I wasn't able to complet
 ### 1:38 PM
 
 Got to finish up Clojure. While doing some reading on the web, I found myself smiling at the fact that I could understand some Lisp now. It's not too foreign to me anymore and now I want to learn more about it.
+
+## August 13, 2018
+
+### 12:38 PM
+
+Got to finish up the first day of Haskell. I've got to say, the language is looking really nice for me. Admittedly, I've seen Haskell before but I never got to appreciate it till I saw the functional languages that came before it. 
