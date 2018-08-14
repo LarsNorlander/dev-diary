@@ -157,3 +157,9 @@ Got to finish up Clojure. While doing some reading on the web, I found myself sm
 ### 12:38 PM
 
 Got to finish up the first day of Haskell. I've got to say, the language is looking really nice for me. Admittedly, I've seen Haskell before but I never got to appreciate it till I saw the functional languages that came before it. 
+
+## August 14, 2018
+
+### 6:32 PM
+
+Just got home from a long trip to the Swedish Embassy. I'll see if I could muster up the strength to do something today later.
