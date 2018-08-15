@@ -163,3 +163,9 @@ Got to finish up the first day of Haskell. I've got to say, the language is look
 ### 6:32 PM
 
 Just got home from a long trip to the Swedish Embassy. I'll see if I could muster up the strength to do something today later.
+
+## August 15, 2018
+
+### 12:13 PM
+
+I guess the answer to yesterday's question was no, I ended up falling asleep. Got to finish the second day of Haskell and got to learn how partially applied functions and currying works in Haskell. 
