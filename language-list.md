@@ -6,5 +6,6 @@ This is just a collection of languages I'd like to learn (or study more about) a
 * Kotlin
 * Swift
 * Haskell
+* Go
 * Python
 * Clojure
