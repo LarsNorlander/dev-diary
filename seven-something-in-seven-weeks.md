@@ -169,3 +169,9 @@ Just got home from a long trip to the Swedish Embassy. I'll see if I could muste
 ### 12:13 PM
 
 I guess the answer to yesterday's question was no, I ended up falling asleep. Got to finish the second day of Haskell and got to learn how partially applied functions and currying works in Haskell. 
+
+## August 16, 2018
+
+### 10:38 AM
+
+Got to finally finish up Haskell and the book. Now that I've explored seven languages I've never touched before, it feels like I've been soul searching... as a dev... if that makes sense. Now I want to try even more languages and my next stop, is Swift! Well, I want to do it mostly thanks to the book Classic Computer Science Problems in Swift. Here I go!
