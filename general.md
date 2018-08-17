@@ -21,3 +21,9 @@ A. It starts with `X`, and then alternates between `O` and `X`. (Recursive)
 B. If `n` is the position being asked, if `n` is odd the value is `X` else, it's `O`. (Exact)
 
 You could imagine that there are two ways of implementing this in a code. Recursively, you'll have to hold the previous value to generate the next. You'll then have an algorithm that's `O(n)`. But if you do it by computing the value for `n % 2 == 0`, you'll have a `O(1)` algorithm. Though for the given example, solving it recursively probably never crossed your mind when you code but you get the idea.
+
+## August 17, 2018
+
+### 9:47 AM
+
+Currently out and about with friends on a road trip so, no updates today.
