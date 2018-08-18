@@ -9,3 +9,7 @@ Got to kick off Swift with the book Learning Swift, 3rd Edition from O'Reilly. G
 ### 9:49 PM
 
 Couldn't help but have another go at the language and learned about OOP in Swift. Something I found amazing was the fact that you could extend a class to conform to a protocol. That kinda blew my mind. It was also amusing to see that you could also declare your own operations on classes.
+
+### 11:11 PM
+
+Had a go all the way to the Swift Package Manager. I'll read up the rest of the chapter tomorrow since this looks rather long.
