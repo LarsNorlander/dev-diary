@@ -13,3 +13,9 @@ Couldn't help but have another go at the language and learned about OOP in Swift
 ### 11:11 PM
 
 Had a go all the way to the Swift Package Manager. I'll read up the rest of the chapter tomorrow since this looks rather long.
+
+## August 19, 2018
+
+### 10:42 AM
+
+Finished up the third chapter and read about the Swift Package Manager. I did stumble on a few problems on my machine though. It might be that there have been some breaking changes made between the publication of the book.
