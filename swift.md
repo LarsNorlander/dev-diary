@@ -19,3 +19,7 @@ Had a go all the way to the Swift Package Manager. I'll read up the rest of the 
 ### 10:42 AM
 
 Finished up the third chapter and read about the Swift Package Manager. I did stumble on a few problems on my machine though. It might be that there have been some breaking changes made between the publication of the book.
+
+### 11:01 AM
+
+Got to setup the basic project and followed some of the modifications for Selfiegram. Time to build a very original app.
