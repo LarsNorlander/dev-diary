@@ -27,3 +27,7 @@ You could imagine that there are two ways of implementing this in a code. Recurs
 ### 9:47 AM
 
 Currently out and about with friends on a road trip so, no updates today.
+
+## August 20, 2018
+
+I've been running around here and there for quite a bit today. I've also been setting up some stuff here at home as preparation for leaving for Sweden. So I'm not sure if there'll be an update.
