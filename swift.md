@@ -23,3 +23,9 @@ Finished up the third chapter and read about the Swift Package Manager. I did st
 ### 11:01 AM
 
 Got to setup the basic project and followed some of the modifications for Selfiegram. Time to build a very original app.
+
+## August 21, 2018
+
+### 1:56 PM
+
+So today, I got to build up the model component of the Selfiegram app. In this I've pretty much created an image, saved it to disk, encoded and decoded JSON from local storage and had unit tests to boot.
