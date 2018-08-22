@@ -29,3 +29,9 @@ Got to setup the basic project and followed some of the modifications for Selfie
 ### 1:56 PM
 
 So today, I got to build up the model component of the Selfiegram app. In this I've pretty much created an image, saved it to disk, encoded and decoded JSON from local storage and had unit tests to boot.
+
+## August 22, 2018
+
+### 9:31 PM
+
+Got to add the ability to view available selfies in a list. It displays how long ago a selfie has been taken and a preview. As of now, it's only showing the selfies that have been left out by running my tests.
