@@ -24,10 +24,12 @@ You could imagine that there are two ways of implementing this in a code. Recurs
 
 ## August 17, 2018
 
-### 9:47 AM
-
 Currently out and about with friends on a road trip so, no updates today.
 
 ## August 20, 2018
 
 I've been running around here and there for quite a bit today. I've also been setting up some stuff here at home as preparation for leaving for Sweden. So I'm not sure if there'll be an update.
+
+## August 23, 2018
+
+Another day of running around town as I prepare for Sweden and it's already evening. Four days left until my flight.
