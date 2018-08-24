@@ -33,3 +33,7 @@ I've been running around here and there for quite a bit today. I've also been se
 ## August 23, 2018
 
 Another day of running around town as I prepare for Sweden and it's already evening. Four days left until my flight.
+
+## August 24, 2018
+
+Met up with family today that I haven't seen in a while. Maybe tomorrow, I could finally do something. I wouldn't be surprised though if I'll find time when I get to Sweden.
