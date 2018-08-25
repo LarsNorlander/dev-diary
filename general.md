@@ -37,3 +37,7 @@ Another day of running around town as I prepare for Sweden and it's already even
 ## August 24, 2018
 
 Met up with family today that I haven't seen in a while. Maybe tomorrow, I could finally do something. I wouldn't be surprised though if I'll find time when I get to Sweden.
+
+## August 25, 2018
+
+Pack-up day. I won't be surprised at this point if I'll be able to continue my 100 Days of Code after getting to Sweden. I'll log in everyday though anyway.
