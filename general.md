@@ -44,4 +44,4 @@ Pack-up day. I won't be surprised at this point if I'll be able to continue my 1
 
 ## August 26, 2018
 
-Tomorrow's the big day. Hello to a new world. I'm kinda excited to see what Sweden's like. As for today, I'll see if I could do some reading on code. But for the most part, I'll be spending it with family.
+Tomorrow's the big day. Hello to a new world. I'm kinda excited to see what Sweden's like, and probably what the dev community there is like. As for today, I'll see if I could do some reading on code. But for the most part, I'll be spending it with family.
