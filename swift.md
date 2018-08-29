@@ -35,3 +35,9 @@ So today, I got to build up the model component of the Selfiegram app. In this I
 ### 9:31 PM
 
 Got to add the ability to view available selfies in a list. It displays how long ago a selfie has been taken and a preview. As of now, it's only showing the selfies that have been left out by running my tests.
+
+## August 29, 2018
+
+### 9:45 PM
+
+After all the setbacks and traveling and settling down here in Sweden, I got back up again and started coding. This time, I added the ability to delete items in the list and add new selfies using the camera.
