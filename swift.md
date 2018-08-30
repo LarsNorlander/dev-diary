@@ -41,3 +41,9 @@ Got to add the ability to view available selfies in a list. It displays how long
 ### 9:45 PM
 
 After all the setbacks and traveling and settling down here in Sweden, I got back up again and started coding. This time, I added the ability to delete items in the list and add new selfies using the camera.
+
+## August 30, 2018
+
+### 7:28 AM
+
+Added the ability to view individual selfies in Selfiegram. I'll work on editing a bit later.
