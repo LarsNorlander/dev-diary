@@ -47,3 +47,7 @@ After all the setbacks and traveling and settling down here in Sweden, I got bac
 ### 7:28 AM
 
 Added the ability to view individual selfies in Selfiegram. I'll work on editing a bit later.
+
+### 11:09 AM
+
+Finished up the basic functionality of the app. So I could now add new selfies, edit their titles, and then delete them. Up next will be adding metadata for location.
