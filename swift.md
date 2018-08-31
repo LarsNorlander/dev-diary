@@ -51,3 +51,9 @@ Added the ability to view individual selfies in Selfiegram. I'll work on editing
 ### 11:09 AM
 
 Finished up the basic functionality of the app. So I could now add new selfies, edit their titles, and then delete them. Up next will be adding metadata for location.
+
+## August 31, 2018
+
+### 9:41 AM
+
+Today I got to work on the location library of iOS. This allowed me to add location data to Selfiegram's images and show a map. The map could be tapped and will open the Maps app to show you the general area where a selfie has been taken.
