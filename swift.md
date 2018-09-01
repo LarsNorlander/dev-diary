@@ -57,3 +57,11 @@ Finished up the basic functionality of the app. So I could now add new selfies, 
 ### 9:41 AM
 
 Today I got to work on the location library of iOS. This allowed me to add location data to Selfiegram's images and show a map. The map could be tapped and will open the Maps app to show you the general area where a selfie has been taken.
+
+## September 1, 2018
+
+### 10:33 PM
+
+This time added a simple settings page to the Selfiegram app and added the ability to toggle on and off the ability to add location to selfies.
+
+At this point, I think I've learned enough Swift to take on "Classic Computer Science Problems in Swift". And so with that, it time to close Learning Swift.
