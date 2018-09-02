@@ -65,3 +65,11 @@ Today I got to work on the location library of iOS. This allowed me to add locat
 This time added a simple settings page to the Selfiegram app and added the ability to toggle on and off the ability to add location to selfies.
 
 At this point, I think I've learned enough Swift to take on "Classic Computer Science Problems in Swift". And so with that, it time to close Learning Swift.
+
+## September 2, 2018
+
+### 9:13 PM
+
+Today I shift my attention to "Classic Computer Science Problems in Swift". This book is the reason I started out Swift actually. So today I did the fibonacci sequence in a couple of ways. One that was absolutely broken (infinite recursion), one that worked through recursion, one with memoization, and one iteratively. Of course, this lead to some extra reading.
+
+I also got to do compression for the first time. The example in the book takes a sequence of nucleotides that represent DNA in a String format and converted into a smaller binary form.
