@@ -73,3 +73,9 @@ At this point, I think I've learned enough Swift to take on "Classic Computer Sc
 Today I shift my attention to "Classic Computer Science Problems in Swift". This book is the reason I started out Swift actually. So today I did the fibonacci sequence in a couple of ways. One that was absolutely broken (infinite recursion), one that worked through recursion, one with memoization, and one iteratively. Of course, this lead to some extra reading.
 
 I also got to do compression for the first time. The example in the book takes a sequence of nucleotides that represent DNA in a String format and converted into a smaller binary form.
+
+## September 3, 2018
+
+### 9:50 AM
+
+Today I got to work on creating encryption, solving pi, and solving the Towers of Hanoi. Though admittedly, I'm still confused by the Towers of Hanoi and will require some extra searching around.
