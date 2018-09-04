@@ -79,3 +79,9 @@ I also got to do compression for the first time. The example in the book takes a
 ### 9:50 AM
 
 Today I got to work on creating encryption, solving pi, and solving the Towers of Hanoi. Though admittedly, I'm still confused by the Towers of Hanoi and will require some extra searching around.
+
+## September 4, 2018
+
+### 2:07 PM
+
+Finally got to understand the Towers of Hanoi and it's actually quite amazing once you get it. I've also done the exercises listed for the first chapter including a version of fibonacci that does it iteratively and with memoization, a wrapper for the BitVector class, a Tower of Hanoi solver, and encrypting an image.
