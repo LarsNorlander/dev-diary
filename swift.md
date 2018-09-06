@@ -85,3 +85,9 @@ Today I got to work on creating encryption, solving pi, and solving the Towers o
 ### 2:07 PM
 
 Finally got to understand the Towers of Hanoi and it's actually quite amazing once you get it. I've also done the exercises listed for the first chapter including a version of fibonacci that does it iteratively and with memoization, a wrapper for the BitVector class, a Tower of Hanoi solver, and encrypting an image.
+
+## September 6, 2018
+
+### 2:24 PM
+
+Did the DNA search section of Chapter 2, which is all about searching. I've known about linear search and binary search for a while now but writing them out makes for a good exercise.
