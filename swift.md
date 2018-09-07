@@ -91,3 +91,7 @@ Finally got to understand the Towers of Hanoi and it's actually quite amazing on
 ### 2:24 PM
 
 Did the DNA search section of Chapter 2, which is all about searching. I've known about linear search and binary search for a while now but writing them out makes for a good exercise.
+
+## September 7, 2018
+
+Got to finally do some maze solving algorithms. I've always watched about them but never really got to learn how they work. I was able to implement and understand how depth-first search works. It took me a bit to get it but I did. Tomorrow, I'll do breadth-first search.
