@@ -94,4 +94,12 @@ Did the DNA search section of Chapter 2, which is all about searching. I've know
 
 ## September 7, 2018
 
+### 9:08 PM
+
 Got to finally do some maze solving algorithms. I've always watched about them but never really got to learn how they work. I was able to implement and understand how depth-first search works. It took me a bit to get it but I did. Tomorrow, I'll do breadth-first search.
+
+## September 8, 2018
+
+### 11:20 AM
+
+Got to do breadth-first search and the A* algorithm! I was amazed at how just changing one data structure was all it took to go from depth-first to breadth-first. A* was something I've always heard about (again) but never got to do. I have a good idea of how it works, but I'll definitely give it a better look to fully understand it.
