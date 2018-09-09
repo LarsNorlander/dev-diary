@@ -106,4 +106,6 @@ Got to do breadth-first search and the A* algorithm! I was amazed at how just ch
 
 ## September 9, 2018
 
+### 12:04 PM
+
 So today I did the Missionaries and Cannibals problem. To my surprises, I didn't think you could solve this problem using search algorithms. In the book, breadth-first search is used to discover the fastest way to move all parties from one side to another. What I also found surprising was trying out the problem with a different number of missionaries and cannibals. The search algorithm found a solution for two but four up to nine yielded nothing (if I were doing things right).
