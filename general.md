@@ -53,3 +53,7 @@ Yep, today's the day I say good bye to a world I knew. Here's to a new world in 
 ## September 5, 2018
 
 I had quite a busy day today going around doing documents so, no logs for today.
+
+## September 10, 2018
+
+Out with family going around Sweden for now. I'll log again tomorrow.
