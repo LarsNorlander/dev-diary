@@ -113,3 +113,9 @@ So today I did the Missionaries and Cannibals problem. To my surprises, I didn't
 ### 2:42 PM
 
 Went a little further today and started on the chapter about constraint-satisfaction problems. I got to the part for the Australian Map Coloring Problem and I found it interesting because I've seen the solution to this in Prolog. Now I've seen what it looks like implemented in Swift and it's given me a bit of a new perspective as well.
+
+## September 11, 2018
+
+### 12:15 PM
+
+Got to finish the entire chapter on constraint-satisfaction problems and I was impressed with the fact that you could solve multiple problems simply by defining new constraints for the problem. Next up, graph problems.
