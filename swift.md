@@ -119,3 +119,7 @@ Went a little further today and started on the chapter about constraint-satisfac
 ### 12:15 PM
 
 Got to finish the entire chapter on constraint-satisfaction problems and I was impressed with the fact that you could solve multiple problems simply by defining new constraints for the problem. Next up, graph problems.
+
+## September 12, 2018
+
+Started reading up on Chapter 4. Graph problems. Got to code in the protocols for an edge and a graph and it's extension. I'm a little busy today so this is all for today. I'll read more tomorrow maybe (hopefully).
