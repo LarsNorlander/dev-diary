@@ -11,3 +11,9 @@ Shifted gears a bit from Swift to Kotlin for the time being. I'll get back to Cl
 ### 8:16 PM
 
 Started reading on how you could do some of the creational patterns in Kotlin and implementing the static factory pattern with companion objects. I went exploring today (around the city) and so what I've done today may be a little limited.
+
+## September 16, 2018
+
+### 2:41 PM
+
+Got to finish reading up on the creational patterns in Kotlin and started out some of the structural patterns including the decorator, adapter, and bridge patterns. I was surprised to see how the `by` keyword makes it simpler to implement the decorator.
