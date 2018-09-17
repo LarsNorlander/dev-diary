@@ -17,3 +17,9 @@ Started reading on how you could do some of the creational patterns in Kotlin an
 ### 2:41 PM
 
 Got to finish reading up on the creational patterns in Kotlin and started out some of the structural patterns including the decorator, adapter, and bridge patterns. I was surprised to see how the `by` keyword makes it simpler to implement the decorator.
+
+## September 17, 2018
+
+### 7:30 PM
+
+I was reading a little more on structural patterns. But then I got a surprise visit from a family member. I won't be counting this to my 100 Days of Code though since it was too little.
