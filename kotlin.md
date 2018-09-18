@@ -23,3 +23,9 @@ Got to finish reading up on the creational patterns in Kotlin and started out so
 ### 7:30 PM
 
 I was reading a little more on structural patterns. But then I got a surprise visit from a family member. I won't be counting this to my 100 Days of Code though since it was too little.
+
+## September 18, 2018
+
+### 7:05 PM
+
+Read more about creational patterns and I'm nearly done with all of them. This book sure has a lot gamer humor.
