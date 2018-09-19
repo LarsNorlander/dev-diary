@@ -29,3 +29,10 @@ I was reading a little more on structural patterns. But then I got a surprise vi
 ### 7:05 PM
 
 Read more about creational patterns and I'm nearly done with all of them. This book sure has a lot gamer humor.
+
+## September 19, 2018
+
+### 4:52 PM
+
+Got to close up the chapter on structural patterns and started reading how the behavioral patterns would be implemented in Kotlin. One of the nice things about Kotlin's new features is that, it help in simplifying a lot of the patterns.
+
