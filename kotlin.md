@@ -36,3 +36,8 @@ Read more about creational patterns and I'm nearly done with all of them. This b
 
 Got to close up the chapter on structural patterns and started reading how the behavioral patterns would be implemented in Kotlin. One of the nice things about Kotlin's new features is that, it help in simplifying a lot of the patterns.
 
+## September 20, 2018
+
+### 1:03 PM
+
+Got to read up on a bunch of behavioral patterns again. I'll also be joining a Java Meet Up soon so, that's all there is for today.
