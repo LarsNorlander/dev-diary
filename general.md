@@ -61,3 +61,7 @@ Out with family going around Sweden for now. I'll log again tomorrow.
 ## September 13, 2018
 
 I've been a little busy today. For the most part, I got to talk to someone from a company here in Sweden... followed by getting lost with the busses so, I'd say today was very interesting.
+
+## September 21, 2018
+
+Nothing today since I had to run around and process a few documents.
