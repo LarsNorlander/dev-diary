@@ -65,3 +65,7 @@ I've been a little busy today. For the most part, I got to talk to someone from 
 ## September 21, 2018
 
 Nothing today since I had to run around and process a few documents.
+
+## September 23, 2018
+
+I really have no real excuse this day around. It was a nice bright day so I decided to go around Gothenburg and enjoy the rare clear day.
