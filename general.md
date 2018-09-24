@@ -69,3 +69,7 @@ Nothing today since I had to run around and process a few documents.
 ## September 23, 2018
 
 I really have no real excuse this day around. It was a nice bright day so I decided to go around Gothenburg and enjoy the rare clear day.
+
+## September 24, 2018
+
+Today was mostly code exams, meetings, and emails. I have a meeting for tomorrow and we'll see just how many emails. Maybe I could squeeze in just a bit of reading before collapsing into the bed?
