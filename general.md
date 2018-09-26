@@ -73,3 +73,7 @@ I really have no real excuse this day around. It was a nice bright day so I deci
 ## September 24, 2018
 
 Today was mostly code exams, meetings, and emails. I have a meeting for tomorrow and we'll see just how many emails. Maybe I could squeeze in just a bit of reading before collapsing into the bed?
+
+## September 26, 2018
+
+Again, with the really occupied day of emails and calls. Tomorrow I have a meeting that's pretty early in the day so maybe, if nobody calls me in the afternoon, I could at least watch a video or something.
