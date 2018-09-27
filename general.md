@@ -77,3 +77,7 @@ Today was mostly code exams, meetings, and emails. I have a meeting for tomorrow
 ## September 26, 2018
 
 Again, with the really occupied day of emails and calls. Tomorrow I have a meeting that's pretty early in the day so maybe, if nobody calls me in the afternoon, I could at least watch a video or something.
+
+## September 27, 2018
+
+Had an entire day's worth of an interview, answering emails, and code examinations. I'm hoping that soon enough I could get a job.
