@@ -81,3 +81,7 @@ Again, with the really occupied day of emails and calls. Tomorrow I have a meeti
 ## September 27, 2018
 
 Had an entire day's worth of an interview, answering emails, and code examinations. I'm hoping that soon enough I could get a job.
+
+## September 30, 2018
+
+I've been out for a while but last Friday, I've actually got a job offer! And I'll be working on AI too. This is a bit of a funny turn of events because this is basically the opposite of everything I've worked on previously. But hey! It's something new and something really exciting! I'm glad I have the opportunity to work in AI professionally.
