@@ -85,3 +85,7 @@ Had an entire day's worth of an interview, answering emails, and code examinatio
 ## September 30, 2018
 
 I've been out for a while but last Friday, I've actually got a job offer! And I'll be working on AI too. This is a bit of a funny turn of events because this is basically the opposite of everything I've worked on previously. But hey! It's something new and something really exciting! I'm glad I have the opportunity to work in AI professionally.
+
+## October 3, 2018
+
+First day of work and I'm kinda tired. I guess there was quite a few to take in. I'll start studying again as soon as I know what to focus on for work. I'll be working with AI so this should be interesting.
