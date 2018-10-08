@@ -89,3 +89,7 @@ I've been out for a while but last Friday, I've actually got a job offer! And I'
 ## October 3, 2018
 
 First day of work and I'm kinda tired. I guess there was quite a few to take in. I'll start studying again as soon as I know what to focus on for work. I'll be working with AI so this should be interesting.
+
+## October 8, 2018
+
+In the latest string of things keeping me from doing extra coding stuff, it's looking for an apartment! I'm actually going to a viewing tomorrow and I hope I could get the apartment since it looks really interesting. And with that, I could get a proper desk and all. (Currently I'm lodging and I really don't have much of a place to do stuff.)
