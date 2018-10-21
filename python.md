@@ -114,3 +114,9 @@ Got to finish the chapter "Packages" in The Quick Python Book and got to underst
 ### 6:40 PM
 
 Finished the chapter on "Using Python libraries" and finally got to understand how Python handles external libraries and how to install them. Something useful I also learned was the virtual environment. I've been seeing it in PyCharm but never new what it was supposed to be. Now I've figured it out.
+
+## October 21, 2018
+
+### 8:59 PM
+
+Well, now that I work with Python in my work, I might as well start learning the best practices. For this, I've started with the quite awesome book, [The Hitchhiker's Guide to Python](https://www.safaribooksonline.com/library/view/the-hitchhikers-guide/9781491933213/). So far I've gotten to the section talking about code conventions in Python and how to write proper Python code.
