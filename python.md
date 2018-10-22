@@ -120,3 +120,9 @@ Finished the chapter on "Using Python libraries" and finally got to understand h
 ### 8:59 PM
 
 Well, now that I work with Python in my work, I might as well start learning the best practices. For this, I've started with the quite awesome book, [The Hitchhiker's Guide to Python](https://www.safaribooksonline.com/library/view/the-hitchhikers-guide/9781491933213/). So far I've gotten to the section talking about code conventions in Python and how to write proper Python code.
+
+## October 22, 2018
+
+### 8:08 PM
+
+Today I continued on reading The Hitchhiker's Guide to Python. Got to read about some of the "gatchas" of the language for new comers. Turns out there's a tiny section on TDD, which is nice. That way I could finally be confident on my Python code. Next up would be learning some Django since I need to learn about it for work.
