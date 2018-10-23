@@ -125,4 +125,10 @@ Well, now that I work with Python in my work, I might as well start learning the
 
 ### 8:08 PM
 
-Today I continued on reading The Hitchhiker's Guide to Python. Got to read about some of the "gatchas" of the language for new comers. Turns out there's a tiny section on TDD, which is nice. That way I could finally be confident on my Python code. Next up would be learning some Django since I need to learn about it for work.
+Today I continued on reading The Hitchhiker's Guide to Python. Got to read about some of the "gotchas" of the language for new comers. Turns out there's a tiny section on TDD, which is nice. That way I could finally be confident on my Python code. Next up would be learning some Django since I need to learn about it for work.
+
+## October 23, 2018
+
+### 9:40 PM
+
+Today I moved from The Hitchhiker's Guide to Python to Django's official documentation. I found Django to be extremely fun especially when paired with IntelliJ's amazing support for the framework. It felt a lot like building an application with Legos. I got to the section about writing test for Django applications and I really look forward to it.
