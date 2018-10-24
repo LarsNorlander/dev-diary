@@ -132,3 +132,7 @@ Today I continued on reading The Hitchhiker's Guide to Python. Got to read about
 ### 9:40 PM
 
 Today I moved from The Hitchhiker's Guide to Python to Django's official documentation. I found Django to be extremely fun especially when paired with IntelliJ's amazing support for the framework. It felt a lot like building an application with Legos. I got to the section about writing test for Django applications and I really look forward to it.
+
+## October 24, 2018
+
+Finished up Django's basic tutorial. I'm quite amazed actually at what you could do with it. It just generates pretty much everything for you. I could see how this helps with bringing up ideas really quickly. I'll quickly browse a few more resources and then tomorrow, maybe I'll start my next round of #100DaysOfCode.
