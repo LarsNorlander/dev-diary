@@ -17,3 +17,9 @@ Finally, I won the bidding for an apartment and I'll be signing on it tomorrow. 
 ### 11:00 PM
 
 Today, I am committing again to the #100DaysOfCode challenge. This time, my goal is to go through all of Manning's learning materials on [Deep Learning](https://www.manning.com/bundle-hub/deep-learning). And yes, I actually bought the first bundle. I'm intentionally twisting my arm into studying.
+
+## October 26, 2018
+
+### 9:58 PM
+
+Got to read a bit more about machine learning and how computers learn. I'm getting a little tired now, so I might as well continue tomorrow. No point in forcing myself to study if I can't absorb what I'm reading.
