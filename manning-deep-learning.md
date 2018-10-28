@@ -19,3 +19,9 @@ Got to read a bit more about machine learning and how computers learn. I'm getti
 ### 11:16 PM
 
 So, didn't get the time to study today coz I went to IKEA to get some furniture. Took a while assembling stuff (and quite the cut on my finger) but now, my desk is so clean and clutter free. I guess that would help a bit to concentrate on studying. I'll definitely put a bunch of effort tomorrow. (Assuming nothing comes up.)
+
+## October 28, 2018
+
+### 8:13 PM
+
+Got to read up and finish the second chapter of Grokking Deep Learning. Now I properly understand the difference between supervised and unsupervised learning. Not only that, I also found out that there's Parametric and Non-Parametric learning. I look forward especially to Chapter 3, where things will start to become really hands on.
