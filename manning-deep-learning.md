@@ -25,3 +25,9 @@ So, didn't get the time to study today coz I went to IKEA to get some furniture.
 ### 8:13 PM
 
 Got to read up and finish the second chapter of Grokking Deep Learning. Now I properly understand the difference between supervised and unsupervised learning. Not only that, I also found out that there's Parametric and Non-Parametric learning. I look forward especially to Chapter 3, where things will start to become really hands on.
+
+## October 29, 2018
+
+### 8:52 PM
+
+Got to read up about half of chapter three from Grokking Deep Learning. I was surprised to see how tiny a neural network could be. I created a few simple neural networks. One of them took one input and produced one output, and one took several inputs and produced one input. Tomorrow I'll continue on with the rest of the chapter and hopefully finish it.
