@@ -31,3 +31,9 @@ Got to read up and finish the second chapter of Grokking Deep Learning. Now I pr
 ### 8:52 PM
 
 Got to read up about half of chapter three from Grokking Deep Learning. I was surprised to see how tiny a neural network could be. I created a few simple neural networks. One of them took one input and produced one output, and one took several inputs and produced one input. Tomorrow I'll continue on with the rest of the chapter and hopefully finish it.
+
+## October 31, 2018
+
+### 8:13 PM
+
+Got to finish up chapter three of Grokking Deep Learning and now I could say that I finally understand the structure of a neural network. It's surprisingly simpler than I thought.
