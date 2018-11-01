@@ -37,3 +37,9 @@ Got to read up about half of chapter three from Grokking Deep Learning. I was su
 ### 8:13 PM
 
 Got to finish up chapter three of Grokking Deep Learning and now I could say that I finally understand the structure of a neural network. It's surprisingly simpler than I thought.
+
+## November 1, 2018
+
+### 8:06 PM
+
+Read into chapter four and I'm starting to see how learning works. So for starters, there's hot and cold learning where you try out a value that's a bit higher and a bit lower to see which one creates the smaller error. Although as I'm about to read, it seems there is a better way to do this.
