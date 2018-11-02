@@ -43,3 +43,9 @@ Got to finish up chapter three of Grokking Deep Learning and now I could say tha
 ### 8:06 PM
 
 Read into chapter four and I'm starting to see how learning works. So for starters, there's hot and cold learning where you try out a value that's a bit higher and a bit lower to see which one creates the smaller error. Although as I'm about to read, it seems there is a better way to do this.
+
+## November 2, 2018
+
+### 10:17 PM
+
+Read a bit more on learning and got to read up a bit on gradient decent. I'm a little too tired so this will do for now. I'll try watching videos instead and see how much that would help.
