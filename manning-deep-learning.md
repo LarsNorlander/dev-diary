@@ -49,3 +49,9 @@ Read into chapter four and I'm starting to see how learning works. So for starte
 ### 10:17 PM
 
 Read a bit more on learning and got to read up a bit on gradient decent. I'm a little too tired so this will do for now. I'll try watching videos instead and see how much that would help.
+
+## November 3, 2018
+
+### 8:50 PM
+
+I got to finish up chapter 4 of Grokking Deep Learning. Now I see the mathematical connection Deep Learning has. Although honestly, a lot of things flew threw my head. The ending of the chapter now asks that I write the machine learning code from memory... Which I can't do at the moment. So my next focus for tomorrow will be understanding the code enough to be able to do just that.
