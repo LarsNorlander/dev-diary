@@ -55,3 +55,9 @@ Read a bit more on learning and got to read up a bit on gradient decent. I'm a l
 ### 8:50 PM
 
 I got to finish up chapter 4 of Grokking Deep Learning. Now I see the mathematical connection Deep Learning has. Although honestly, a lot of things flew threw my head. The ending of the chapter now asks that I write the machine learning code from memory... Which I can't do at the moment. So my next focus for tomorrow will be understanding the code enough to be able to do just that.
+
+## November 4, 2018
+
+### 9:15 PM
+
+I went though chapter 4 of Grokking Deep Learning again today and this time, I actually got it. And, I got to recall (most of) the code from the chapter. Next stop, chapter 5! "Learning Multiple Weights at a Time: Generalizing Gradient Descent"
