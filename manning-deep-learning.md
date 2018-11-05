@@ -61,3 +61,9 @@ I got to finish up chapter 4 of Grokking Deep Learning. Now I see the mathematic
 ### 9:15 PM
 
 I went though chapter 4 of Grokking Deep Learning again today and this time, I actually got it. And, I got to recall (most of) the code from the chapter. Next stop, chapter 5! "Learning Multiple Weights at a Time: Generalizing Gradient Descent"
+
+## November 5, 2018
+
+### 7:31 PM
+
+Today was a bit of a long day, so I don't think I'll learn much if I force myself to read today. I'll probably start chapter 5 tomorrow.
