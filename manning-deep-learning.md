@@ -73,3 +73,9 @@ Today was a bit of a long day, so I don't think I'll learn much if I force mysel
 ### 9:06 PM
 
 Took a break from the book today and watched a few videos by 1Blue3Brown on neural networks. For some reason, watching something and learning visually helps quite well.
+
+## November 8, 2018
+
+### 8:24 PM
+
+I started reading up a bit on chapter 5, which is training with multiple inputs. I find it amusing that the process of adjusting the weight is basically just repeated on all inputs. But I'm only halfway there so there's more to see.
