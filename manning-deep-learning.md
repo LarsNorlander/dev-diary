@@ -79,3 +79,9 @@ Took a break from the book today and watched a few videos by 1Blue3Brown on neur
 ### 8:24 PM
 
 I started reading up a bit on chapter 5, which is training with multiple inputs. I find it amusing that the process of adjusting the weight is basically just repeated on all inputs. But I'm only halfway there so there's more to see.
+
+## November 9, 2018
+
+### 6:14 PM
+
+So! I have a new pair of glasses and reading just makes me dizzy at this point. I'm hoping that in a few days, I could easily go back to this and continue on. Maybe if I'm better adjusted tomorrow, I'll pick up the pace tomorrow.
