@@ -85,3 +85,9 @@ I started reading up a bit on chapter 5, which is training with multiple inputs.
 ### 6:14 PM
 
 So! I have a new pair of glasses and reading just makes me dizzy at this point. I'm hoping that in a few days, I could easily go back to this and continue on. Maybe if I'm better adjusted tomorrow, I'll pick up the pace tomorrow.
+
+## November 12, 2018
+
+### 8:15 PM
+
+Back at it again! And this time, I finished up chapter 5 of Grokking Deep Learning. It's amusing to see how flexible gradient descent is when it comes to learning. I was quite surprised to see that learning to predict using multiple inputs and outputs was rather simpler than I initially imaged.
