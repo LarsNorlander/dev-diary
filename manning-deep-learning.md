@@ -90,4 +90,5 @@ So! I have a new pair of glasses and reading just makes me dizzy at this point. 
 
 ### 8:15 PM
 
-Back at it again! And this time, I finished up chapter 5 of Grokking Deep Learning. It's amusing to see how flexible gradient descent is when it comes to learning. I was quite surprised to see that learning to predict using multiple inputs and outputs was rather simpler than I initially imaged.
+
+
