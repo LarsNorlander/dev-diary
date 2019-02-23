@@ -4,13 +4,13 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ## Summary
 
-**Current Topic**: Android Development with Kotlin
-**Current Book**: [Android Programming: The Big Nerd Ranch Guide, Third Edition](https://learning.oreilly.com/library/view/android-programming-the/9780134706061/)
+**Current Topic**: Android Development
+**Current Project**: Simple Notes App
 
-## List of Topics
+## Topics of Interest
 
 * Algorithms and Problem Solving
-* Android Development with Kotlin
+* Android Development
 * Functional Programming with Haskell
 * Deep Learning
 * Software Engineering and Architecture
@@ -18,7 +18,7 @@ This is a small note to organise what I want to study up on. It could be anythin
 * Embedded Development with Arduino and Raspberry Pi
 * Mathematics
 
-## List of Languages
+## Languages of Interest
 
 * Java
 * Kotlin
@@ -28,7 +28,6 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ## Books of Interest
 
-* [Android Programming: The Big Nerd Ranch Guide, Third Edition](https://learning.oreilly.com/library/view/android-programming-the/9780134706061/)
 * [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://learning.oreilly.com/library/view/grokking-algorithms-an/9781617292231/)
 * [Get Programming with Go](https://learning.oreilly.com/library/view/get-programming-with/9781617293092/)
 * [Get Programming with Haskell](https://learning.oreilly.com/library/view/get-programming-with/9781617293764/)
