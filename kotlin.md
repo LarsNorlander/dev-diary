@@ -41,3 +41,9 @@ Got to close up the chapter on structural patterns and started reading how the b
 ### 1:03 PM
 
 Got to read up on a bunch of behavioral patterns again. I'll also be joining a Java Meet Up soon so, that's all there is for today.
+
+## February 23, 2019
+
+### 2:02 PM
+
+Well! I've been assigned to an Android team and well, it seems I'll finally get to professionally work with Kotlin! That means getting to see more serious applications of the language. I guess the great thing will be the fact that now, I'll have a better roadmap of what to study for the language. 

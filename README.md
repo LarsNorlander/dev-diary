@@ -1,4 +1,4 @@
-# Dev Diary,
+# `Dev Diary \`
 
 Initially this repository was a diary for my freeCodeCamp adventure. When I finished doing the freeCodeCamp stuff, I
 started to miss doing the diary. There was something about writing about the things I've been doing that feels 
