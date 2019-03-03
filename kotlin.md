@@ -46,4 +46,10 @@ Got to read up on a bunch of behavioral patterns again. I'll also be joining a J
 
 ### 2:02 PM
 
-Well! I've been assigned to an Android team and well, it seems I'll finally get to professionally work with Kotlin! That means getting to see more serious applications of the language. I guess the great thing will be the fact that now, I'll have a better roadmap of what to study for the language. 
+Well! I've been assigned to an Android team and well, it seems I'll finally get to professionally work with Kotlin! That means getting to see more serious applications of the language. I guess the great thing will be the fact that now, I'll have a better roadmap of what to study for the language.
+
+## March 3, 2019
+
+### 8:10 PM
+
+Picking up a Kotlin book again to refresh my knowledge for my upcoming assignment. I’ll be working on Android and the team uses Kotlin primarily for all new stuff. I’m actually pretty excited to do something with Kotlin professionally since it’s been my favourite language since I’ve tried writing with it.
