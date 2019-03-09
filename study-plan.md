@@ -4,8 +4,7 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ## Summary
 
-**Current Topic**: Android Development
-**Current Project**: Simple Notes App
+**Current Topic**: Android Development, ReactiveX
 
 ## Topics of Interest
 
