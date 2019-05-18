@@ -53,3 +53,9 @@ Well! I've been assigned to an Android team and well, it seems I'll finally get 
 ### 8:10 PM
 
 Picking up a Kotlin book again to refresh my knowledge for my upcoming assignment. I’ll be working on Android and the team uses Kotlin primarily for all new stuff. I’m actually pretty excited to do something with Kotlin professionally since it’s been my favourite language since I’ve tried writing with it.
+
+## May 18, 2019
+
+### 8:37 PM
+
+After quite a while of not logging to my Dev Diary, I’m finally doing it again. I’ve started off by reading the first chapter of the book The Joy of Kotlin. I’ve waited for this book for quite a while and I’m pretty excited to go through it.
