@@ -59,3 +59,9 @@ Picking up a Kotlin book again to refresh my knowledge for my upcoming assignmen
 ### 8:37 PM
 
 After quite a while of not logging to my Dev Diary, I’m finally doing it again. I’ve started off by reading the first chapter of the book The Joy of Kotlin. I’ve waited for this book for quite a while and I’m pretty excited to go through it.
+
+## May 19, 2019
+
+### 8:59 PM
+
+Finished chapter 2 and most of chapter 3. Turns out, there’s a way to partially apply the second argument of a curried function, you could also do something like convert a normal function into a curried function. This will come in handy. At the moment, I’ve only really known to partially apply curried functions with their first argument only.
