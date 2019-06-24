@@ -4,16 +4,16 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ## Summary
 
-**Current Topic**: Android Development, ReactiveX
+**Current Topic**: Software Engineering and Architecture
 
 ## Topics of Interest
 
+* Software Engineering and Architecture
+* Docker and Kubernetes
+* DevOps and Deploying Applications
 * Algorithms and Problem Solving
-* Android Development
 * Functional Programming with Haskell
 * Deep Learning
-* Software Engineering and Architecture
-* DevOps and Deploying Applications
 * Embedded Development with Arduino and Raspberry Pi
 * Mathematics
 
