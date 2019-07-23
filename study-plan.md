@@ -1,18 +1,20 @@
 # Study Plan
 
-This is a small note to organise what I want to study up on. It could be anything and most likely ordered by interest or prioritisation.
-
-## Summary
-
-**Current Topic**: Software Engineering and Architecture
+This is a small note to organise what I want to study up on. It could be anything and most likely ordered by interest or prioritization.
 
 ## Topics of Interest
 
+### Professional
+
 * Software Engineering and Architecture
+* Microservices
 * Docker and Kubernetes
 * DevOps and Deploying Applications
+
+### Hobby
+
 * Algorithms and Problem Solving
-* Functional Programming with Haskell
+* Functional Programming with Haskell, Elixir, and Clojure
 * Deep Learning
 * Embedded Development with Arduino and Raspberry Pi
 * Mathematics
@@ -24,16 +26,39 @@ This is a small note to organise what I want to study up on. It could be anythin
 * Python
 * Go
 * Haskell
+* Elixir
+* Clojure
 
-## Books of Interest
+## Study Queue
 
-* [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://learning.oreilly.com/library/view/grokking-algorithms-an/9781617292231/)
-* [Get Programming with Go](https://learning.oreilly.com/library/view/get-programming-with/9781617293092/)
-* [Get Programming with Haskell](https://learning.oreilly.com/library/view/get-programming-with/9781617293764/)
+### Professional
+
+* ✅ Microservices Patterns
+* 🤓 Kubernetes in Action
+* Graph Databases, Second Edition
+* Kubernetes Microservices
+* Spring in Action, Fifth Edition
+* Microservices in Action
+* Spring Microservices in Action
+* Testing Java Microservices
+* Docker in Action, Second Edition
+* Docker in Practice, Second Edition
+* Cloud Native Patterns
+
+### Hobby
+
+* 🤓 Grokking Algorithms
+* Classic Computer Science Problems in Python
+* [AlgoExpert](https://www.algoexpert.io)
+* Get Programming with Haskell
+* Elixir in Action
+* The Joy of Kotlin
+* Grokking Deep Learning
+* Deep Learning in Python
+* Keras in Motion
 
 ## List of Resources
 
 * [O’Reilly Learning](https://learning.oreilly.com/)
 * [AlgoExpert](https://www.algoexpert.io)
 * [Brilliant](https://brilliant.org/)
-
