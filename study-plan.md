@@ -14,9 +14,8 @@ This is a small note to organise what I want to study up on. It could be anythin
 ### Hobby
 
 * Algorithms and Problem Solving
-* Functional Programming with Haskell, Elixir, and Clojure
+* Exploring Programming with Haskell, Elixir, and Rust
 * Deep Learning
-* Embedded Development with Arduino and Raspberry Pi
 * Mathematics
 
 ## Languages of Interest
@@ -27,7 +26,7 @@ This is a small note to organise what I want to study up on. It could be anythin
 * Go
 * Haskell
 * Elixir
-* Clojure
+* Rust
 
 ## Study Queue
 
