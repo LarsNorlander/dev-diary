@@ -35,7 +35,7 @@ This is a small note to organise what I want to study up on. It could be anythin
 * ✅ Microservices Patterns
 * ✅ Kubernetes in Action
 * 🤓 [A Tour of Go](https://tour.golang.org/)
-* Graph Databases, Second Edition
+* 🤓 Graph Databases, Second Edition
 * Kubernetes Microservices
 * Spring in Action, Fifth Edition
 * Microservices in Action
