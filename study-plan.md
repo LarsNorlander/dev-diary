@@ -20,20 +20,21 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ## Languages of Interest
 
-* Java
 * Kotlin
-* Python
 * Go
-* Haskell
-* Elixir
 * Rust
+* Elixir
+* Python
+* Java
+* Haskell
 
 ## Study Queue
 
 ### Professional
 
 * ✅ Microservices Patterns
-* 🤓 Kubernetes in Action
+* ✅ Kubernetes in Action
+* 🤓 [A Tour of Go](https://tour.golang.org/)
 * Graph Databases, Second Edition
 * Kubernetes Microservices
 * Spring in Action, Fifth Edition
