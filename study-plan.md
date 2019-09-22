@@ -47,8 +47,8 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ### Hobby
 
-* 🤓 Grokking Algorithms
-* Classic Computer Science Problems in Python
+* ✅ Grokking Algorithms
+* 🤓 Classic Computer Science Problems in Python
 * [AlgoExpert](https://www.algoexpert.io)
 * Get Programming with Haskell
 * Elixir in Action
