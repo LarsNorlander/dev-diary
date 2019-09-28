@@ -35,7 +35,7 @@ This is a small note to organise what I want to study up on. It could be anythin
 * ✅ Microservices Patterns
 * ✅ Kubernetes in Action
 * 🤓 [A Tour of Go](https://tour.golang.org/)
-* 🤓 Graph Databases, Second Edition
+* ✅ Graph Databases, Second Edition
 * Kubernetes Microservices
 * Spring in Action, Fifth Edition
 * Microservices in Action
@@ -48,7 +48,8 @@ This is a small note to organise what I want to study up on. It could be anythin
 ### Hobby
 
 * ✅ Grokking Algorithms
-* 🤓 Classic Computer Science Problems in Python
+* 🤓 [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
+* Classic Computer Science Problems in Python
 * [AlgoExpert](https://www.algoexpert.io)
 * Get Programming with Haskell
 * Elixir in Action
@@ -59,6 +60,5 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ## List of Resources
 
-* [O’Reilly Learning](https://learning.oreilly.com/)
 * [AlgoExpert](https://www.algoexpert.io)
 * [Brilliant](https://brilliant.org/)
