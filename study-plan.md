@@ -20,13 +20,13 @@ This is a small note to organise what I want to study up on. It could be anythin
 
 ## Languages of Interest
 
-* Kotlin
 * Go
 * Rust
 * Elixir
+* Kotlin
+* Haskell
 * Python
 * Java
-* Haskell
 
 ## Study Queue
 
@@ -39,12 +39,12 @@ This is a small note to organise what I want to study up on. It could be anythin
 * 🤓 The Go Programming Language
 * Docker in Action, Second Edition
 * Kubernetes Microservices
-* Spring in Action, Fifth Edition
 * Microservices in Action
-* Spring Microservices in Action
-* Testing Java Microservices
 * Docker in Practice, Second Edition
 * Cloud Native Patterns
+* Spring in Action, Fifth Edition
+* Spring Microservices in Action
+* Testing Java Microservices
 
 ### Hobby
 
