@@ -26,6 +26,7 @@ This is a small note to organise what I want to study up on. It could be anythin
 * Kotlin
 * Haskell
 * Python
+* Kotlin
 * Java
 
 ## Study Queue
@@ -36,8 +37,8 @@ This is a small note to organise what I want to study up on. It could be anythin
 * ✅ Kubernetes in Action
 * ✅ [A Tour of Go](https://tour.golang.org/)
 * ✅ Graph Databases, Second Edition
-* 🤓 The Go Programming Language
-* Docker in Action, Second Edition
+* ✅ The Go Programming Language
+* 🤓 Docker in Action, Second Edition
 * Kubernetes Microservices
 * Microservices in Action
 * Docker in Practice, Second Edition
