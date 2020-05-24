@@ -50,10 +50,10 @@ This is a small note to organise what I want to study up on. It could be anythin
 ### Hobby
 
 * ✅ Grokking Algorithms
-* 🤓 Classic Computer Science Problems in Python
-* [AlgoExpert](https://www.algoexpert.io)
-* Get Programming with Haskell
+* 🤓 Get Programming with Haskell
 * Elixir in Action
+* Classic Computer Science Problems in Python
+* [AlgoExpert](https://www.algoexpert.io)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
 * The Joy of Kotlin
 * Grokking Deep Learning
